@@ -11,8 +11,8 @@ class LinearAlgebra(object):
     """Computes v_1 * w_1 + ... + v_n * w_n"""
     assert len(v) == len(w), "vectors must be the same length"
 
-    return sum(v_i + w_i for v_i, w_i in zip(v, w))
+    return sum(v_i * w_i for v_i, w_i in zip(v, w))
 
   def sum_of_squares(v: Vector) -> float:
     """Returns v_1 * v_1 + ... + v_n * v_n"""
-    return dot(v, v)
+    return LinearAlgebra.dot(v, v)
