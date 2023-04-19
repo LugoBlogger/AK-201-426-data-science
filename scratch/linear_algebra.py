@@ -37,7 +37,7 @@ class LinearAlgebra(object):
 
   def squared_distance(v: Vector, w: Vector) -> float:
     """Computes (v_1 - w_1)**2 + ... + (v_n - w_n)**2"""
-    return LinearAlgebra.sum_of_squares(subtract(v, w))
+    return LinearAlgebra.sum_of_squares(LinearAlgebra.subtract(v, w))
 
   def distance(v: Vector, w: Vector) -> float:    
     """Computes the distance between v and w"""
