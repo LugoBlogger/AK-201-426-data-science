@@ -9,6 +9,11 @@ class LinearAlgebra(object):
   def __init__(self):
     return None
 
+  def add(v: Vector, w: Vector) -> Vector:
+    """Adds corresponding elements"""
+    assert len(v) == len(w), "vectors must be the same length"
+    return [v_i + w_i for v_i, w_i in zip(v, w)]
+
   def subtract(v: Vector, w: Vector) -> Vector:
     """Subtracts corresponding elements"""
     assert len(v) == len(w), "vectors must be the same length"
@@ -45,6 +50,10 @@ class LinearAlgebra(object):
   def sum_of_squares(v: Vector) -> float:
     """Returns v_1 * v_1 + ... + v_n * v_n"""
     return LinearAlgebra.dot(v, v)
+
+  def magnitude(v: Vector) -> float:
+    """Returns the magnitude (or length) of v"""
+    return np.sqrt(LinearAlgebra.sum_of_squares(v))
 
   def make_matrix(num_rows: int, num_cols: int,
     entry_fn: Callable[[int, int], float]) -> Matrix:
