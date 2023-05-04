@@ -1,5 +1,5 @@
 import numpy as np
-from typing import List, Callable
+from typing import List, Callable, Tuple
 
 Vector = List[float]
 Matrix = List[List[float]]
@@ -55,6 +55,20 @@ class LinearAlgebra(object):
     """Returns the magnitude (or length) of v"""
     return np.sqrt(LinearAlgebra.sum_of_squares(v))
 
+  def squared_distance(v: Vector, w: Vector) -> float:
+    """Computes (v_1 - w_1)**2 + ... + (v_n - w_n)**2"""
+    return LinearAlgebra.sum_of_squares(LinearAlgebra.subtract(v, w))
+
+  def distance(v: Vector, w: Vector) -> float:    
+    """Computes the distance between v and w"""
+    return np.sqrt(LinearAlgebra.squared_distance(v, w))
+
+  def shape(A: Matrix) -> Tuple[int, int]:
+    """Returns (# of rows of A, # of columns of A)"""
+    num_rows = len(A)
+    num_cols = len(A[0]) if A else 0      # number of elements in first row
+    return num_rows, num_cols
+
   def make_matrix(num_rows: int, num_cols: int,
     entry_fn: Callable[[int, int], float]) -> Matrix:
 
@@ -65,12 +79,4 @@ class LinearAlgebra(object):
     return [[entry_fn(i,j)                  # given i, create a list
               for j in range(num_cols)]     # [entry_fn(i, 0), ...]
                 for i in range(num_rows)]   # create one list for each i  
-
-  def squared_distance(v: Vector, w: Vector) -> float:
-    """Computes (v_1 - w_1)**2 + ... + (v_n - w_n)**2"""
-    return LinearAlgebra.sum_of_squares(LinearAlgebra.subtract(v, w))
-
-  def distance(v: Vector, w: Vector) -> float:    
-    """Computes the distance between v and w"""
-    return np.sqrt(LinearAlgebra.squared_distance(v, w))
 
