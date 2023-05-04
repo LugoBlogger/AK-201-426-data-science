@@ -93,6 +93,17 @@ class DeepLearning(object):
     else:
       return [DeepLearning.softmax(tensor_i) for tensor_i in tensor]
 
+  def tanh(x: float) -> float:
+    # If x is very large or very small, tanh is (essentially) 1 or -1.
+    # We check for this becasue, e.g., np.exp(1_000) raises an error.
+    if x < -100:
+      return -1
+    if x > 100:
+      return 1
+
+    em2x = np.exp(-2 * x)
+    return (1 - em2x) / ( 1 + em2x)
+
 
 class Layer(object):
   """Our neural networks will be composed of Layers, each of which
@@ -264,7 +275,7 @@ class Momentum(Optimizer):
       # Then take a gradient step
       param[:] = DeepLearning.tensor_combine(
         lambda p, u: p - self.lr * u, 
-        params, update)
+        param, update)
 
 
 class SoftmaxCrossEntropy(Loss):
