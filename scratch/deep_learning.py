@@ -105,6 +105,25 @@ class DeepLearning(object):
     return (1 - em2x) / ( 1 + em2x)
 
 
+  def save_weights(model: Layer, filename: str) -> None:
+    weights = list(model.params())
+    with open(filename, 'w') as f:
+      json.dump(weights, f)
+
+
+  def load_weights(model: Layer, filename: str) -> None:
+    with open(filename) as f:
+      weights = json.load(f)
+
+    # Check for consistency
+    assert all(shape(param) == shape(weight)
+                for param, weight in zip(model.params(), weights))
+
+    # Then load using slice assignment
+    for param, weight in zip(model.params(), weights):
+      param[:] = weight
+
+
 class Layer(object):
   """Our neural networks will be composed of Layers, each of which
      knows how to do some computation on its inputs in the `forward`
