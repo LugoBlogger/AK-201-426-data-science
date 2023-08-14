@@ -50,7 +50,8 @@ To connect automatically between your GitHub account and your computer
 This tutorial follows from GitHub documentation on 
 [Generate new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and
 [Add a new SSH key to GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). We assume that you never
-create any SSH key before. If you have, you should follow the complete procedures
+create any SSH key before. If you already have the key, we suggest that you should
+make a new one.
 
 - Open Git Bash and type the following configuration. You should
   replace the email address with your GitHub email address
