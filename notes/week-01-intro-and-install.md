@@ -1,4 +1,4 @@
-# Notes - Week 01 - Introduction and installation
+# Notes - Week 01 - Installation and introduction
 
 Lecturer: **Henokh Lugo Hariyanto**
 
