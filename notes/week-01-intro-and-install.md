@@ -116,3 +116,21 @@ You only need to have a Gmail account (using ITK student email account).
 Copy all the `.ipynb` file to your GDrive and open it with Google Colab.
 
 <img src="../img-resources/google-colab.png" width="400">
+
+
+
+## Run your first Jupyter notebook
+
+You can clone all the file from the repository [AK-201-426-data-science](https://github.com/LugoBlogger/AK-201-426-data-science/tree/master) or type manually the Jupyter Notebook in each week (I suggest this way to force yourself by learning to code)
+
+<img src="../img-resources/github-repo.png" width="400">
+
+If you want to clone all the files, click on the green button "<> Code".
+and select "Download ZIP"
+
+Using VSCode or Google Colab, open the Jupyter Notebook
+from this GitHub repo: [ch-01-intro.ipynb](https://github.com/LugoBlogger/AK-201-426-data-science/blob/master/ch-01-intro.ipynb) or file `ch-01-intro.ipynb`
+in the download repository.
+
+Follow the instruction to learn step by step the explanation in Youtube
+that I have shared in LMS (kuliah.itk.ac.id).
