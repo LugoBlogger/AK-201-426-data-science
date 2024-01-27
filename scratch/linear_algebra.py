@@ -63,6 +63,7 @@ class LinearAlgebra(object):
     """Computes the distance between v and w"""
     return np.sqrt(LinearAlgebra.squared_distance(v, w))
 
+
   def shape(A: Matrix) -> Tuple[int, int]:
     """Returns (# of rows of A, # of columns of A)"""
     num_rows = len(A)
