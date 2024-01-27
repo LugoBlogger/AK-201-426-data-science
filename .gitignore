@@ -1,3 +1,5 @@
+.gitignore
+.vscode
 /spam_data/*
 /learn-asyncio/*
 iris.data
