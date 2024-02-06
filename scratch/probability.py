@@ -9,6 +9,9 @@ class Probability(object):
   def __init__(self):
     return None
   
+  def normal_pdf(x: float, mu: float = 0, sigma: float = 1) -> float:
+    return (1/(np.sqrt(2*np.pi) * sigma)) \
+      * np.exp(-(x - mu)**2 / (2*sigma**2))
 
   def normal_cdf(x: float, mu: float = 0, sigma: float = 1) -> float:
     return 0.5 * (1 + sc_special.erf((x - mu) / (sigma * np.sqrt(2))))
