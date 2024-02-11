@@ -1,4 +1,4 @@
-# Notes - Week 03 - Short review on statistics 
+# Notes - Week 03 - Short review of statistics 
 
 Lecturer: **Henokh Lugo Hariyanto**
 
@@ -8,6 +8,15 @@ Lecturer: **Henokh Lugo Hariyanto**
 > of after you re run the program for several times, you should understand the 
 > mechanism and functionality of each code in a part of whole program.
 
-This note is short version and summary of (Gruz, 2019). Most of the codes and 
+This note is short version and summary of (Grus, 2019). Most of the codes and 
 texts are excerpt from that book.
 
+## Describing a univariate data
+
+### Central tendencies
+
+### Dispersion
+
+## Correlation
+
+## Correlation and Causation
