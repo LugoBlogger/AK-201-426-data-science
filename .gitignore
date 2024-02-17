@@ -3,3 +3,5 @@
 /spam_data/*
 /learn-asyncio/*
 iris.data
+/credential.json
+/credential-youtube.json

@@ -1,0 +1,13 @@
+# This line starts with a hash
+This line does not start with a hash
+# Another line starting with a hash
+This line neither starts with a hash nor ends with a hash #
+# Yet another line with a hash at the end#
+This line starts with a hash too #
+This line has a hash in the middle: # #
+No hash at the beginning or end #
+# Hash at the start, end, and middle: # # #
+Another line without a hash at the beginning
+This line has a hash at the end#
+This line starts with a hash and also ends with a hash #
+Another line without a hash at the beginning and has a hash in the middle: # #

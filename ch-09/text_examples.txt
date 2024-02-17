@@ -1,0 +1,5 @@
+This is an example text file.
+It contains multiple lines of text.
+Some lines have numbers like 12345.
+Others don't have any numbers at all.
+Line 5 has a number too.
