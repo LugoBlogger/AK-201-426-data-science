@@ -22,7 +22,8 @@ class LinearAlgebra(object):
   def vector_sum(vectors: List[Vector]) -> Vector:
     """Sum all corresponding elements"""
     # Check that vectors is not empty
-    assert vectors, "no vectors provided!"
+    # print(vectors)
+    assert len(vectors) != 0, "no vectors provided!"
 
     # Check the vectors are all the same size
     num_elements = len(vectors[0])
