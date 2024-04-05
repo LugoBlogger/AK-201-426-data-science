@@ -26,7 +26,7 @@ such as 0.01 or 0.005?
 ## Problem 3
 
 Using the data from `datasets/dim-reduc-2d.csv`, perform gradient descent
-with a linear model $y = \text{slope}\,x + \text{intercept}$
+with a linear model $y = \text{slope}\times x + \text{intercept}$
 to find out the best estimation for the slope and intercept.
 
 ## Problem 4
