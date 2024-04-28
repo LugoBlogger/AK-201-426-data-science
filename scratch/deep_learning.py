@@ -156,7 +156,6 @@ class DeepLearning(object):
       param[:] = weight
 
 
-
 class Linear(Layer):
   def __init__(self, input_dim: int, output_dim: int, init: 
                 str = "xavier", rng=None) -> None:

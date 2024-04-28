@@ -1,0 +1,149 @@
+Data science is an interdisciplinary academic field 1 that uses statistics scientific computing scientific methods processes algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy structured or unstructured data.
+Data science also integrates domain knowledge from the underlying application domain e.g. natural sciences information technology and medicine.
+Data science is multifaceted and can be described as a science a research paradigm a research method a discipline a workflow and a profession.
+Data science is a concept to unify statistics data analysis informatics and their related methods to understand and analyze actual phenomena with data.
+It uses techniques and theories drawn from many fields within the context of mathematics statistics computer science information science and domain knowledge.
+However data science is different from computer science and information science.
+Turing Award winner Jim Gray imagined data science as a fourth paradigm of science empirical theoretical computational and now data driven and asserted that everything about science is changing because of the impact of information technology and the data deluge.
+A data scientist is a professional who creates programming code and combines it with statistical knowledge to create insights from data.
+Data science is an interdisciplinary field 10 focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains.
+The field encompasses preparing data for analysis formulating data science problems analyzing data developing data driven solutions and presenting findings to inform high level decisions in a broad range of application domains.
+As such it incorporates skills from computer science statistics information science mathematics data visualization information visualization data sonification data integration graphic design complex systems communication and business.
+Statistician Nathan Yau drawing on Ben Fry also links data science to human computer interaction users should be able to intuitively control and explore data.
+In 2015 the American Statistical Association identified database management statistics and machine learning and distributed and parallel systems as the three emerging foundational professional communities.
+Many statisticians including Nate Silver have argued that data science is not a new field but rather another name for statistics.
+Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.
+Vasant Dhar writes that statistics emphasizes quantitative data and description.
+In contrast data science deals with quantitative and qualitative data e.g. from images text sensors transactions customer information etc. and emphasizes prediction and action.
+Andrew Gelman of Columbia University has described statistics as a non essential part of data science.
+Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program.
+He describes data science as an applied field growing out of traditional statistics.
+In 1962 John Tukey described a field he called data analysis which resembles modern data science.
+In 1985 in a lecture given to the Chinese Academy of Sciences in Beijing C.F. Jeff Wu used the term data science for the first time as an alternative name for statistics.
+Later attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms combining established concepts and principles of statistics and data analysis with computing.
+The term data science has been traced back to 1974 when Peter Naur proposed it as an alternative name to computer science.
+In 1996 the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.
+However the definition was still in flux.
+After the 1985 lecture at the Chinese Academy of Sciences in Beijing in 1997 C.F. Jeff Wu again suggested that statistics should be renamed data science.
+He reasoned that a new name would help statistics shed inaccurate stereotypes such as being synonymous with accounting or limited to describing data.
+In 1998 Hayashi Chikio argued for data science as a new interdisciplinary concept with three aspects data design collection and analysis.
+During the 1990s popular terms for the process of finding patterns in datasets which were increasingly large included knowledge discovery and data mining.
+In 2012 technologists Thomas H. Davenport and DJ Patil declared Data Scientist The Sexiest Job of the 21st Century a catchphrase that was picked up even by major city newspapers like the New York Times 27 and the Boston Globe.
+A decade later they reaffirmed it stating that the job is more in demand than ever with employers.
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.
+In a 2001 paper he advocated an expansion of statistics beyond theory into technical areas because this would significantly change the field it warranted a new name.
+Data science became more widely used in the next few years in 2002 the Committee on Data for Science and Technology launched the Data Science Journal.
+In 2003 Columbia University launched The Journal of Data Science.
+In 2014 the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science reflecting the ascendant popularity of data science.
+The professional title of data scientist has been attributed to DJ Patil and Jeff Hammerbacher in 2008.
+Though it was used by the National Science Board in their 2005 report Long Lived Digital Data Collections Enabling Research and Education in the 21st Century it referred broadly to any key role in managing a digital data collection.
+There is still no consensus on the definition of data science and it is considered by some to be a buzzword.
+Big data is a related marketing term.
+Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.
+Data science and data analysis are both important disciplines in the field of data management and analysis but they differ in several key ways.
+While both fields involve working with data data science is more of an interdisciplinary field that involves the application of statistical computational and machine learning methods to extract insights from data and make predictions while data analysis is more focused on the examination and interpretation of data to identify patterns and trends.
+Data analysis typically involves working with smaller structured datasets to answer specific questions or solve specific problems.
+This can involve tasks such as data cleaning data visualization and exploratory data analysis to gain insights into the data and develop hypotheses about relationships between variables.
+Data analysts typically use statistical methods to test these hypotheses and draw conclusions from the data.
+For example a data analyst might analyze sales data to identify trends in customer behavior and make recommendations for marketing strategies.
+Data science on the other hand is a more complex and iterative process that involves working with larger more complex datasets that often require advanced computational and statistical methods to analyze.
+Data scientists often work with unstructured data such as text or images and use machine learning algorithms to build predictive models and make data driven decisions.
+In addition to statistical analysis data science often involves tasks such as data preprocessing feature engineering and model selection.
+For instance a data scientist might develop a recommendation system for an e commerce platform by analyzing user behavior patterns and using machine learning algorithms to predict user preferences.
+While data analysis focuses on extracting insights from existing data data science goes beyond that by incorporating the development and implementation of predictive models to make informed decisions.
+Data scientists are often responsible for collecting and cleaning data selecting appropriate analytical techniques and deploying models in real world scenarios.
+They work at the intersection of mathematics computer science and domain expertise to solve complex problems and uncover hidden patterns in large datasets.
+Despite these differences data science and data analysis are closely related fields and often require similar skill sets.
+Both fields require a solid foundation in statistics programming and data visualization as well as the ability to communicate findings effectively to both technical and non technical audiences.
+Both fields benefit from critical thinking and domain knowledge as understanding the context and nuances of the data is essential for accurate analysis and modeling.
+In summary data analysis and data science are distinct yet interconnected disciplines within the broader field of data management and analysis.
+Data analysis focuses on extracting insights and drawing conclusions from structured data while data science involves a more comprehensive approach that combines statistical analysis computational methods and machine learning to extract insights build predictive models and drive data driven decision making.
+Both fields use data to understand patterns make informed decisions and solve complex problems across various domains.
+Cloud computing can offer access to large amounts of computational power and storage.
+In big data where volumes of information are continually generated and processed these platforms can be used to handle complex and resource intensive analytical tasks.
+Some distributed computing frameworks are designed to handle big data workloads.
+These frameworks can enable data scientists to process and analyze large datasets in parallel which can reducing processing times.
+Data science involve collecting processing and analyzing data which often including personal and sensitive information.
+Ethical concerns include potential privacy violations bias perpetuation and negative societal impacts Machine learning models can amplify existing biases present in training data leading to discriminatory or unfair outcomes.
+Actuarial science is the discipline that applies mathematical and statistical methods to assess risk in insurance pension finance investment and other industries and professions.
+More generally actuaries apply rigorous mathematics to model matters of uncertainty and life expectancy.
+Actuaries are professionals trained in this discipline.
+In many countries actuaries must demonstrate their competence by passing a series of rigorous professional examinations focused in fields such as probability and predictive analysis.
+Actuarial science includes a number of interrelated subjects including mathematics probability theory statistics finance economics financial accounting and computer science.
+Historically actuarial science used deterministic models in the construction of tables and premiums.
+The science has gone through revolutionary changes since the 1980s due to the proliferation of high speed computers and the union of stochastic actuarial models with modern financial theory.
+Many universities have undergraduate and graduate degree programs in actuarial science.
+In 2010 needs update a study published by job search website CareerCast ranked actuary as the job in the United States.
+The study used five key criteria to rank jobs environment income employment outlook physical demands and stress.
+In 2023 U.S.  News World Report ranked actuary as the eighth best job in the business sector and the thirteenth best job in STEM.
+Actuarial science became a formal mathematical discipline in the late 17th century with the increased demand for long term insurance coverage such as burial life insurance and annuities.
+These long term coverages required that money be set aside to pay future benefits such as annuity and death benefits many years into the future.
+This requires estimating future contingent events such as the rates of mortality by age as well as the development of mathematical techniques for discounting the value of funds set aside and invested.
+This led to the development of an important actuarial concept referred to as the present value of a future sum.
+Certain aspects of the actuarial methods for discounting pension funds have come under criticism from modern financial economics.
+Actuarial science is also applied to property casualty liability and general insurance.
+In these forms of insurance coverage is generally provided on a renewable period such as a yearly.
+Coverage can be cancelled at the end of the period by either party.
+Property and casualty insurance companies tend to specialize because of the complexity and diversity of risks.
+One division is to organize around personal and commercial lines of insurance.
+Personal lines of insurance are for individuals and include fire auto homeowners theft and umbrella coverages.
+Commercial lines address the insurance needs of businesses and include property business continuation product liability fleet commercial vehicle workers compensation fidelity and surety and D O insurance.
+The insurance industry also provides coverage for exposures such as catastrophe weather related risks earthquakes patent infringement and other forms of corporate espionage terrorism and one of a kind e.g. satellite launch.
+Actuarial science provides data collection measurement estimating forecasting and valuation tools to provide financial and underwriting data for management to assess marketing opportunities and the nature of the risks.
+Actuarial science often helps to assess the overall risk from catastrophic events in relation to its underwriting capacity or surplus.
+In the reinsurance fields actuarial science can be used to design and price reinsurance and retrocession arrangements and to establish reserve funds for known claims and future claims and catastrophes.
+There is an increasing trend to recognize that actuarial skills can be applied to a range of applications outside the traditional fields of insurance pensions etc.
+One notable example is the use in some US states of actuarial models to set criminal sentencing guidelines.
+These models attempt to predict the chance of re offending according to rating factors which include the type of crime age educational background and ethnicity of the offender.
+However these models have been open to criticism as providing justification for discrimination against specific ethnic groups by law enforcement personnel.
+Whether this is statistically correct or a self fulfilling correlation remains under debate.
+Another example is the use of actuarial models to assess the risk of sex offense recidivism.
+Actuarial models and associated tables such as the MnSOST R Static 99 and SORAG have been used since the late 1990s to determine the likelihood that a sex offender will re offend and thus whether he or she should be institutionalized or set free.
+Traditional actuarial science and modern financial economics in the US have different practices which is caused by different ways of calculating funding and investment strategies and by different regulations.
+Regulations are from the Armstrong investigation of 1905 the Glass Steagall Act of 1932 the adoption of the Mandatory Security Valuation Reserve by the National Association of Insurance Commissioners which cushioned market fluctuations and the Financial Accounting Standards Board FASB in the US and Canada which regulates pensions valuations and funding.
+Historically much of the foundation of actuarial theory predated modern financial theory.
+In the early twentieth century actuaries were developing many techniques that can be found in modern financial theory but for various historical reasons these developments did not achieve much recognition.
+As a result actuarial science developed along a different path becoming more reliant on assumptions as opposed to the arbitrage free risk neutral valuation concepts used in modern finance.
+The divergence is not related to the use of historical data and statistical projections of liability cash flows but is instead caused by the manner in which traditional actuarial methods apply market data with those numbers.
+For example one traditional actuarial method suggests that changing the asset allocation mix of investments can change the value of liabilities and assets by changing the discount rate assumption.
+This concept is inconsistent with financial economics.
+The potential of modern financial economics theory to complement existing actuarial science was recognized by actuaries in the mid twentieth century.
+In the late 1980s and early 1990s there was a distinct effort for actuaries to combine financial theory and stochastic methods into their established models.
+Ideas from financial economics became increasingly influential in actuarial thinking and actuarial science has started to embrace more sophisticated mathematical modelling of finance.
+Today the profession both in practice and in the educational syllabi of many actuarial organizations is cognizant of the need to reflect the combined approach of tables loss models stochastic methods and financial theory.
+However assumption dependent concepts are still widely used such as the setting of the discount rate assumption as mentioned earlier particularly in North America.
+Product design adds another dimension to the debate.
+Financial economists argue that pension benefits are bond like and should not be funded with equity investments without reflecting the risks of not achieving expected returns.
+But some pension products do reflect the risks of unexpected returns.
+In some cases the pension beneficiary assumes the risk or the employer assumes the risk.
+The current debate now seems to be focusing on four principles Essentially financial economics state that pension assets should not be invested in equities for a variety of theoretical and practical reasons.
+Elementary mutual aid agreements and pensions arose in antiquity.
+Early in the Roman empire associations were formed to meet the expenses of burial cremation and monuments precursors to burial insurance and friendly societies.
+A small sum was paid into a communal fund on a weekly basis and upon the death of a member the fund would cover the expenses of rites and burial.
+These societies sometimes sold shares in the building of columbāria or burial vaults owned by the fund the precursor to mutual insurance companies.
+Other early examples of mutual surety and assurance pacts can be traced back to various forms of fellowship within the Saxon clans of England and their Germanic forebears and to Celtic society.
+However many of these earlier forms of surety and aid would often fail due to lack of understanding and knowledge.
+The 17th century was a period of advances in mathematics in Germany France and England.
+At the same time there was a rapidly growing desire and need to place the valuation of personal risk on a more scientific basis.
+Independently of each other compound interest was studied and probability theory emerged as a well understood mathematical discipline.
+Another important advance came in 1662 from a London draper the father of demography John Graunt who showed that there were predictable patterns of longevity and death in a group or cohort of people of the same age despite the uncertainty of the date of death of any one individual.
+This study became the basis for the original life table.
+One could now set up an insurance scheme to provide life insurance or pensions for a group of people and to calculate with some degree of accuracy how much each person in the group should contribute to a common fund assumed to earn a fixed rate of interest.
+The first person to demonstrate publicly how this could be done was Edmond Halley of Halley's comet fame.
+Halley constructed his own life table and showed how it could be used to calculate the premium amount someone of a given age should pay to purchase a life annuity.
+James Dodson's pioneering work on the long term insurance contracts under which the same premium is charged each year led to the formation of the Society for Equitable Assurances on Lives and Survivorship now commonly known as Equitable Life in London in 1762.
+William Morgan is often considered the father of modern actuarial science for his work in the field in the 1780s and 90s.
+Many other life insurance companies and pension funds were created over the following 200 years.
+Equitable Life was the first to use the word actuary for its chief executive officer in 1762.
+Previously actuary meant an official who recorded the decisions or acts of ecclesiastical courts.
+Other companies that did not use such mathematical and scientific methods most often failed or were forced to adopt the methods pioneered by Equitable.
+In the 18th and 19th centuries calculations were performed without computers.
+The computations of life insurance premiums and reserving requirements are rather complex and actuaries developed techniques to make the calculations as easy as possible for example commutation functions essentially precalculated columns of summations over time of discounted values of survival and death probabilities.
+Actuarial organizations were founded to support and further both actuaries and actuarial science and to protect the public interest by promoting competency and ethical standards.
+However calculations remained cumbersome and actuarial shortcuts were commonplace.
+Non life actuaries followed in the footsteps of their life insurance colleagues during the 20th century.
+The 1920 revision for the New York based National Council on Workmen's Compensation Insurance rates took over two months of around the clock work by day and night teams of actuaries.
+In the 1930s and 1940s the mathematical foundations for stochastic processes were developed.
+Actuaries could now begin to estimate losses using models of random events instead of the deterministic methods they had used in the past.
+The introduction and development of the computer further revolutionized the actuarial profession.
+From pencil and paper to punchcards to current high speed devices the modeling and forecasting ability of the actuary has rapidly improved while still being heavily dependent on the assumptions input into the models and actuaries needed to adjust to this new world.

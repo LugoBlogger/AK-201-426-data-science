@@ -1,0 +1,315 @@
+<mxfile host="Electron" modified="2024-04-26T06:20:13.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ns9Jg8GXwHh_IlX-ln5T" version="24.2.5" type="device">
+  <diagram name="Page-1" id="Lqra2Z0Eu6S4rs1HsMGM">
+    <mxGraphModel dx="797" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="650" y="30" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="190" y="80" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-10" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-1" target="7jh2zFUbOjSaHQXrLeM8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-1" value="input 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-2" target="7jh2zFUbOjSaHQXrLeM8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-2" value="input 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-3" target="7jh2zFUbOjSaHQXrLeM8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-3" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-4" value="&lt;pre class=&quot;hljs&quot; style=&quot;margin-top: 0px; margin-bottom: 0px; font-size: medium; overflow-x: auto; padding: 0.5em; color: rgb(51, 51, 51); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;&quot;&gt;[                    &lt;span class=&quot;hljs-comment&quot; style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot;&gt;# hidden layer&lt;/span&gt;&lt;br&gt; [[ &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;20.&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;20&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;-30&lt;/span&gt;],   &lt;span class=&quot;hljs-comment&quot; style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot;&gt;# - `and` neuron&lt;/span&gt;&lt;br&gt;  [ &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;20.&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;20&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;-10&lt;/span&gt;]],  &lt;span class=&quot;hljs-comment&quot; style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot;&gt;# - `or` neuron&lt;/span&gt;&lt;br&gt;                     &lt;span class=&quot;hljs-comment&quot; style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot;&gt;# output layer&lt;/span&gt;&lt;br&gt; [[&lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;-60.&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;60&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot; style=&quot;color: teal;&quot;&gt;-30&lt;/span&gt;]]   &lt;span class=&quot;hljs-comment&quot; style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot;&gt;# - `2nd input but not 1st input` neuron&lt;/span&gt;&lt;br&gt;]&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="200" y="350" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-6" target="7jh2zFUbOjSaHQXrLeM8-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-6" target="7jh2zFUbOjSaHQXrLeM8-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-6" value="\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;  x_1 \\ x_2 \\ 1&lt;br&gt;\end{bmatrix}&lt;br&gt;\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="50" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-9" value="\[&lt;br&gt;{\color{green}\begin{bmatrix}&lt;br&gt;20 &amp;amp; 20 &amp;amp; -30&lt;br&gt;\end{bmatrix}}&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; x_1 \\ x_2 \\ 1&lt;br&gt;\end{bmatrix} =: n_1^{(1)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-12" value="\[&lt;br&gt;{\color{green}\begin{bmatrix}&lt;br&gt;20 &amp;amp; 20 &amp;amp; -10&lt;br&gt;\end{bmatrix}}&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; x_1 \\ x_2 \\ 1&lt;br&gt;\end{bmatrix} =: n_2^{(2)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-13" value="\[&lt;br&gt;&amp;nbsp; \texttt{sigmoid}\left(n_1^{(1)}\right) =: \texttt{out}_1^{(1)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-14" value="\[&lt;br&gt;&amp;nbsp; \texttt{sigmoid}\left(n_2^{(1)}\right) =: \texttt{out}_2^{(1)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-15" value="\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;  \texttt{out}_1^{(1)} \\ \texttt{out}_2^{(1)} \\ 1&lt;br&gt;\end{bmatrix}&lt;br&gt;\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="30" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-16" value="\[&lt;br&gt;{\color{green}\begin{bmatrix}&lt;br&gt;-60 &amp;amp; 60 &amp;amp; -30&lt;br&gt;\end{bmatrix}}&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; \texttt{out}_1^{(1)} \\ \texttt{out}_2^{(1)} \\ 1&lt;br&gt;\end{bmatrix} =: n_1^{(2)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="65" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-19" value="\[&lt;br&gt;&amp;nbsp; \texttt{sigmoid}\left(n_1^{(2)}\right) =: \texttt{out}_1^{(2)}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="65" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-25" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;Layer 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-26" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;\(\texttt{neuron}_1^{(1)} \)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-30" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;\(\texttt{neuron}_2^{(1)} \)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-31" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;\(\texttt{neuron}_1^{(2)} \)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="827" y="30" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-32" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;Layer 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-38" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;input_with_bias&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;= input_vector + [1]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-40" target="7jh2zFUbOjSaHQXrLeM8-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-40" value="&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;input_with_bias&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;= input_vector + [1]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-42" value="\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;  \texttt{out}^{(2)}&lt;br&gt;\end{bmatrix}&lt;br&gt;\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="605" y="-125" width="30" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-44" value="&lt;font face=&quot;Roboto Mono&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;feed_forward()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-45" value="&lt;font face=&quot;Roboto Mono&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;neural_networks parameters&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-250" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.58" y="40" as="sourcePoint" />
+            <mxPoint x="599.58" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-47" value="&lt;font face=&quot;Roboto Mono&quot;&gt;outputs[0]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-48" value="&lt;font face=&quot;Roboto Mono&quot;&gt;outputs[0]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="-90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.376;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7jh2zFUbOjSaHQXrLeM8-42" target="7jh2zFUbOjSaHQXrLeM8-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.58" y="40" as="sourcePoint" />
+            <mxPoint x="1089.58" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-yXACAH2dMFJN6-eMAc-1" value="\[&lt;br&gt;\texttt{loss} = \frac{1}{2}\sum_{j=1}^4&lt;br&gt;\left(\texttt{out}_{i,j}^{(2)} - \texttt{target}_j \right)^2&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-yXACAH2dMFJN6-eMAc-2" value="\(i\) subscript is for the neuron index&lt;br&gt;\(j\) subscript is for the data index" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="319" y="540" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D-yXACAH2dMFJN6-eMAc-3" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 12px;&quot;&gt;Legend: \(\texttt{neuron}_{\#\texttt{neuron}}^{(\# \texttt{layer})} \)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-yXACAH2dMFJN6-eMAc-4" value="\[&lt;br&gt;\frac{\partial \texttt{loss}}{\partial n_{k,j}^{(2)}} &lt;br&gt;= \sum_{j=1}^4&lt;br&gt;&amp;nbsp; &amp;nbsp;\left(\texttt{out}_{i,j}^{(2)} -&amp;nbsp; &amp;nbsp; &amp;nbsp; \texttt{target}_j \right) \, \frac{\partial \texttt{out}_{i,j}^{(2)}}{\partial n_{k,j}^{(2)}}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pLB3Bofpv_VdnrOgmji-1" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;&amp;nbsp;\frac{\partial \texttt{out}_{i,j}^{(2)}}{\partial n_{k,j}^{(2)}}&lt;br&gt;&amp;amp;= \delta_{i,k} \frac{\exp{\left(-n_{ i,j}^{(2)}\right)}}{\left(1 + \exp{(-n_{i,j}^{(2)})}\right)^2} \\&lt;br&gt;&amp;amp;=\delta_{i,k} \left(1 - \texttt{out}_{i,j}^{(2)}\right) \, \texttt{out}_{i,j}^{(2)}&amp;nbsp;&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="680" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3pLB3Bofpv_VdnrOgmji-2" value="\(\delta_{i,k}\) is the delta Kronecker" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="680" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pLB3Bofpv_VdnrOgmji-3" value="\[&lt;br&gt;1 - \texttt{out}_{i,j}^{(2)}&lt;br&gt;&amp;nbsp;= 1 - \frac{1}{1 + \exp{\left(-n_{i,j}^{(2)}\right)}}&lt;br&gt;&amp;nbsp;= \frac{\exp{\left(-n_{i,j}^{(2)}\right)}}{1 + \exp{\left(-n_{i,j}^{(2)}\right)}}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pLB3Bofpv_VdnrOgmji-4" value="\[&lt;br&gt;\frac{\partial \texttt{loss}}{\partial n_{k,j}^{(2)}} &lt;br&gt;=&amp;nbsp;\left(\texttt{out}_{k,j}^{(2)} -&amp;nbsp; &amp;nbsp; &amp;nbsp; \texttt{target}_j \right) \,\left(1 - \texttt{out}_{k,j}^{(2)}\right) \, \texttt{out}_{k,j}^{(2)}&amp;nbsp;&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="820" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7jh2zFUbOjSaHQXrLeM8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" as="sourcePoint" />
+            <mxPoint x="609.58" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-2" value="&lt;font face=&quot;Roboto Mono&quot;&gt;\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp;w_1^{(2)} &amp;amp; w_2^{(2)} &amp;amp; b^{(2)}&lt;br&gt;\end{bmatrix}&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-3" value="&lt;font face=&quot;Roboto Mono&quot;&gt;\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp;w_1^{(1)} &amp;amp; w_2^{(1)} &amp;amp; b_1^{(1)}&lt;br&gt;\end{bmatrix}&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7jh2zFUbOjSaHQXrLeM8-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-50" as="sourcePoint" />
+            <mxPoint x="275" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-5" value="&lt;font face=&quot;Roboto Mono&quot;&gt;\[&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp;w_1^{(1)} &amp;amp; w_2^{(1)} &amp;amp; b_2^{(1)}&lt;br&gt;\end{bmatrix}&lt;br&gt;\]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xv4jjvaJo30C2d4thXQq-5" target="7jh2zFUbOjSaHQXrLeM8-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="-40" as="sourcePoint" />
+            <mxPoint x="253" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-7" value="Gradients with respect to output neuron pre-activation outputs \(n_{i,j}^{(2)}\)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-8" value="Gradients with respect to output neuron weights \(w_k^{(2)}\)." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="490" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-9" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial \texttt{loss}}{\partial w_k^{(2)}} &lt;br&gt;&amp;amp;= \sum_{i=1}^1\frac{\partial \texttt{loss}}{\partial n_{i,j}^{(2)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; \frac{\partial n_{i,j}^{(2)}}{\partial w_k^{(2)}} \\&lt;br&gt;&amp;amp;= \frac{\partial \texttt{loss}}{\partial n_{1,j}^{(2)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\texttt{out}_{k,j}^{(1)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-11" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;n_{i,j}^{(2)} &amp;amp;=\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp; w_1^{(2)} &amp;amp; w_2^{(2)} &amp;amp; w_3^{(2)}&lt;br&gt;&amp;nbsp; &amp;nbsp; \end{bmatrix}&lt;br&gt;&amp;nbsp;\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\texttt{out}_{1,j}^{(1)} \\ \texttt{out}_{2,j}^{(1)} \\ 1&lt;br&gt;&amp;nbsp; \end{bmatrix} \\&lt;br&gt;&amp;nbsp; &amp;amp;=&amp;nbsp;w_1^{(2)}&amp;nbsp;\texttt{out}_{1, j}^{(1)} +&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;w_2^{(2)}&amp;nbsp;\texttt{out}_{2,j}^{(1)} +&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; w_3^{(2)} \texttt{out}_{3, j}^{(1)} \\&lt;br&gt;&amp;nbsp; &amp;amp;= \sum_{\ell=1}^3 w_\ell^{(2)}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\texttt{out}_{\ell,j}^{(1)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-12" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial n_{i,j}^{(2)}}{\partial w_k^{(2)}}&lt;br&gt;&amp;nbsp;&amp;amp;= \sum_{\ell=1}^3 \texttt{out}_{\ell,j}^{(1)} \delta_{\ell,k} \\&lt;br&gt;&amp;nbsp;&amp;amp;= \texttt{out}_{k,j}^{(1)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="700" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-13" value="\(j\) is the index for input data \(1 \leq j \leq 4\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-14" value="We define \(\texttt{out}_{3,j}^{(1)} = 1\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="630" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-15" value="\(\delta_{i,j}\) is the delta Kronecker" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="680" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840.34" y="700" as="sourcePoint" />
+            <mxPoint x="840" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-18" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;output_deltas[i]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="710" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;We set \(b^{(2)}\) to be \(w_3^{(2)}\)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="530" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-20" value="Gradients with respect to hidden neuron pre-activation outputs \(n_{i, j}^{(1)}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="930" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-21" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial \texttt{loss}}{\partial n_{k,j}^{(1)}}&lt;br&gt;&amp;amp;= \sum_{\ell=1}^3\frac{\partial \texttt{loss}}{\partial \texttt{out}_{\ell, j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\frac{\partial \texttt{out}_{\ell, j}^{(1)}}{\partial n_{k,j}^{(1)}} \\&lt;br&gt;&amp;amp;=\sum_{\ell=1}^3 \left(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \sum_{p=1}^1&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \frac{\partial \texttt{loss}}{\partial n_{p,j}^{(2)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \frac{\partial n_{p,j}^{(2)}}{\partial \texttt{out}_{\ell,j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \right)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\frac{\partial \texttt{out}_{\ell,j}^{(1)}}{\partial n_{k, j}^{(1)}} \\&lt;br&gt;&amp;amp;= \sum_{\ell=1}^3 \left(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;\sum_{p=1}^1&lt;br&gt;&amp;nbsp;\frac{\partial \texttt{loss}}{\partial n_{p,j}^{(2)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \frac{\partial n_{p,j}^{(2)}}{\partial \texttt{out}_{\ell,j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\right)\delta_{\ell,k} \left(1 - \texttt{out}_{\ell,j}^{(1)}\right) \, \texttt{out}_{\ell,j}^{(1)} \\&lt;br&gt;&amp;amp;= \left(&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \sum_{p=1}^1&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; \frac{\partial \texttt{loss}}{\partial n_{p,j}^{(2)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; \frac{\partial n_{p,j}^{(2)}}{\partial \texttt{out}_{\ell,j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;\right)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; \left(1 - \texttt{out}_{k,j}^{(1)}\right) \, \texttt{out}_{k,j}^{(1)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="420" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890.34" y="700" as="sourcePoint" />
+            <mxPoint x="890" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-23" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;hidden_output&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="710" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-24" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;&amp;nbsp;n_{i,j}^{(2)} &amp;amp;=&amp;nbsp; n_1^{(2)}&lt;br&gt;&amp;nbsp;= {\color{green}\begin{bmatrix}&lt;br&gt;-60 &amp;amp; 60 &amp;amp; -30&lt;br&gt;\end{bmatrix}}&lt;br&gt;\begin{bmatrix}&lt;br&gt;&amp;nbsp; \texttt{out}_{1, j}^{(1)} \\ \texttt{out}_{2,j}^{(1)} \\ 1&lt;br&gt;\end{bmatrix} \\&lt;br&gt;&amp;nbsp; &amp;amp;= \begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;w_{1}^{(2)} &amp;amp; w_{2}^{(2)} &amp;amp; w_{3}^{(2)}&lt;br&gt;\end{bmatrix}&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; \begin{bmatrix}&lt;br&gt;&amp;nbsp; \texttt{out}_{1,j}^{(1)} \\ \texttt{out}_{2,j}^{(1)} \\ 1&lt;br&gt;\end{bmatrix} \\&lt;br&gt;&amp;nbsp; &amp;amp;= \sum_{m=1}^3 w_{m}^{(2)} \texttt{out}_{m, j}^{(1)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-25" value="We define \(\texttt{out}_{3,j}^{(1)} = 1\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="1071" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-27" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial n_{p,j}^{(2)}}{\partial \texttt{out}_{\ell,j}^{(2)}}&lt;br&gt;&amp;nbsp;&amp;amp;= \sum_{m=1}^3 w_m^{(2)} \delta_{m,\ell}^{} \\&lt;br&gt;&amp;nbsp;&amp;amp;= w_\ell^{(2)}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1160" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-28" value="\(k\) in the neuron of layer 2 only equals to 1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="830" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.619;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xv4jjvaJo30C2d4thXQq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.96" y="1270" as="sourcePoint" />
+            <mxPoint x="359.61999999999995" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xv4jjvaJo30C2d4thXQq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1270" as="sourcePoint" />
+            <mxPoint x="350" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-31" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;hidden_output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1270" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xv4jjvaJo30C2d4thXQq-34" target="xv4jjvaJo30C2d4thXQq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1260" as="sourcePoint" />
+            <mxPoint x="201" y="1231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xv4jjvaJo30C2d4thXQq-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1260" as="sourcePoint" />
+            <mxPoint x="250" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-34" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;output_deltas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="19.5" y="1270" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-35" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;[n[i] for n in networks[-1]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1270" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-36" value="Gradients with respect to hidden neuro weights \(w_k^{(1)}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="920" y="930" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;We set \(b^{(1)}\) to be \(w_3^{(1)}\)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="970" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-39" value="\(j\) is the index for input data \(1 \leq j \leq 4\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="940" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-40" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial \texttt{loss}}{\partial w_k^{(1)}} &lt;br&gt;&amp;amp;= \sum_{i=1}^2\frac{\partial \texttt{loss}}{\partial n_{i,j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; \frac{\partial n_{i,j}^{(1)}}{\partial w_k^{(1)}} \\&lt;br&gt;&amp;amp;= \frac{\partial \texttt{loss}}{\partial n_{1,j}^{(1)}}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;x_{k,j}^{}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1000" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-41" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;n_{i,j}^{(1)} &amp;amp;=\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp; w_1^{(1)} &amp;amp; w_2^{(1)} &amp;amp; w_3^{(1)}&lt;br&gt;&amp;nbsp; &amp;nbsp; \end{bmatrix}&lt;br&gt;&amp;nbsp;\begin{bmatrix}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;x_{1,j} \\ x_{2,j} \\ 1&lt;br&gt;&amp;nbsp; \end{bmatrix} \\&lt;br&gt;&amp;nbsp; &amp;amp;=&amp;nbsp;w_1^{(1)}&amp;nbsp;x_{1,j} +&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;w_2^{(1)}&amp;nbsp;x_{2,j} +&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; w_3^{(1)} x_{3,j} \\&lt;br&gt;&amp;nbsp; &amp;amp;= \sum_{\ell=1}^3 w_\ell^{(1)}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;x_{\ell,j}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1001" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-42" value="We define \(x_{3,j} = 1\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1050" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-43" value="\[&lt;br&gt;\begin{align*}&lt;br&gt;\frac{\partial n_{i,j}^{(1)}}{\partial w_k^{(1)}}&lt;br&gt;&amp;nbsp;&amp;amp;= \sum_{\ell=1}^3 x_{\ell,j}^{} \delta_{\ell,k}^{} \\&lt;br&gt;&amp;nbsp;&amp;amp;= x_{k,j}^{}&lt;br&gt;\end{align*}&lt;br&gt;\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1120" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040.3400000000001" y="1139" as="sourcePoint" />
+            <mxPoint x="1040" y="1099" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-45" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;hidden_deltas[i]&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1149" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080.3400000000001" y="1140" as="sourcePoint" />
+            <mxPoint x="1080" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xv4jjvaJo30C2d4thXQq-47" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;input_&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1149" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

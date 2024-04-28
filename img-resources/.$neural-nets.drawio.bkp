@@ -1,0 +1,25 @@
+<mxfile host="Electron" modified="2024-04-25T03:54:06.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="bkRqvre46LlGw1ap462B" version="24.2.5" type="device">
+  <diagram name="Page-1" id="Lqra2Z0Eu6S4rs1HsMGM">
+    <mxGraphModel dx="611" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-1" value="input 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-2" value="input 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-3" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-4" value="&lt;pre style=&quot;width: 2000px; margin-top: 0px; margin-bottom: 0px; font-size: medium; overflow-x: auto; padding: 0.5em; color: rgb(51, 51, 51); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; class=&quot;hljs&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; face=&quot;Roboto Mono&quot;&gt;[                    &lt;span style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot; class=&quot;hljs-comment&quot;&gt;# hidden layer&lt;/span&gt;&lt;br&gt; [[ &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;20.&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;20&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;-30&lt;/span&gt;],   &lt;span style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot; class=&quot;hljs-comment&quot;&gt;# - `and` neuron&lt;/span&gt;&lt;br&gt;  [ &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;20.&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;20&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;-10&lt;/span&gt;]],  &lt;span style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot; class=&quot;hljs-comment&quot;&gt;# - `or` neuron&lt;/span&gt;&lt;br&gt;                     &lt;span style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot; class=&quot;hljs-comment&quot;&gt;# output layer&lt;/span&gt;&lt;br&gt; [[&lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;-60.&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;60&lt;/span&gt;, &lt;span style=&quot;color: teal;&quot; class=&quot;hljs-number&quot;&gt;-30&lt;/span&gt;]]   &lt;span style=&quot;color: rgb(153, 153, 136); font-style: italic;&quot; class=&quot;hljs-comment&quot;&gt;# - `2nd input but not 1st input` neuron&lt;/span&gt;&lt;br&gt;]&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7jh2zFUbOjSaHQXrLeM8-6" value="&lt;pre style=&quot;width: 2000px; margin-top: 0px; margin-bottom: 0px; font-size: medium; overflow-x: auto; padding: 0.5em; color: rgb(51, 51, 51); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; class=&quot;hljs&quot;&gt;&lt;font face=&quot;Roboto Mono&quot;&gt;\[&lt;br/&gt;\begin{bmatrix}&lt;br/&gt;  x_1 // x_2 // 1&lt;br/&gt;\end{bmatrix}&lt;br/&gt;\]&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="160" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
