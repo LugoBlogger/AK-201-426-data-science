@@ -36,6 +36,6 @@ Some hints to solve this problem:
 - Remove double quotes in each sentences (and also all the non alphabet characters)
 - Remove stopwords. See [this solution](https://stackoverflow.com/a/5486535)   
   from stackoverflow.
-- [optional] Set the words into lowercase
+- Set the words into lowercase
 - [optional] Transform each word using Snowball stemmer. See [this tutorial](https://www.nltk.org/howto/stem.html)
   from NLTK module
