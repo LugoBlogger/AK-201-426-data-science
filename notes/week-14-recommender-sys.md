@@ -1,4 +1,4 @@
-# Notes - Week 13 - Centrality and PageRank 
+# Notes - Week 14 - Recommender System 
 
 Lecturer: **Henokh Lugo Hariyanto**
 
@@ -11,8 +11,14 @@ Lecturer: **Henokh Lugo Hariyanto**
 This note is short version and summary of (Gruz, 2019). Most of the codes and
 text are excerpt from that book.
 
-## Betweeness Centrality
+## Manual Curation
 
-## Eigenvector Centrality
+## Recommending What's Popular
 
-## Directed Graphs and PageRank
+## User-Based Collaborative Filtering
+
+## Item-Based Collaborative Filtering
+
+## Matrix Factorization
+
+## 

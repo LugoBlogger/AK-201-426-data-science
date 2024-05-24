@@ -7,3 +7,8 @@
   - (Dalgaard, 2008) - Introductory Statistics with R, 2nd Ed.
 
   - (Apeltsin, 2021) - Data Science Bookcamp
+
+  - (Liermann and Stegmann, eds., 2021)
+    The Digital Journey of Banking and Insurance, Volumn I - III.   
+    In Volume I, there is a chapter that is entitled "Actuarial Data Science"
+    by Susanne Brindöpke

@@ -1,4 +1,4 @@
-# Notes - Week 14 - Collaborative Filtering
+# Notes - Week 13 - Network Analysis: Centrality
 
 Lecturer: **Henokh Lugo Hariyanto**
 
@@ -11,14 +11,8 @@ Lecturer: **Henokh Lugo Hariyanto**
 This note is short version and summary of (Gruz, 2019). Most of the codes and
 text are excerpt from that book.
 
-## Manual Curation
+## Betweeness Centrality
 
-## Recommending What's Popular
+## Eigenvector Centrality
 
-## User-Based Collaborative Filtering
-
-## Item-Based Collaborative Filtering
-
-## Matrix Factorization
-
-## 
+## Directed Graphs and PageRank
