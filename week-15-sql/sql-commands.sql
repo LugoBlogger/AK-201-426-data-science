@@ -84,4 +84,48 @@ SELECT * FROM albums
   JOIN bands ON albums.band_id = bands.id
   ORDER BY albums.id;
 
+/* bands (left) | albums (right) */
+SELECT * FROM bands
+  LEFT JOIN albums ON bands.id = albums.band_id
+  ORDER BY albums.id;
 
+/* Aggregate functions */
+SELECT AVG (release_year) FROM albums;
+
+SELECT SUM (release_year) FROM albums;
+
+/* How many occurrences of band_id */ 
+SELECT band_id, COUNT (band_id) FROM albums
+  GROUP BY band_id
+  ORDER BY band_id;
+
+/* Add band name to the above query */
+/* bands (left) | albums (right) */
+/* COUNT (albums.id) is calculated over
+   and aggregated bands.id */
+SELECT bands.name, COUNT (albums.id) FROM bands
+  LEFT JOIN albums ON bands.id = albums.band_id
+  GROUP BY bands.id;
+
+/* Order based on COUNT (albums.id) */
+SELECT bands.name AS band_name, COUNT (albums.id) AS num_albums 
+  FROM bands
+  LEFT JOIN albums ON bands.id = albums.band_id
+  GROUP BY bands.id
+  ORDER BY num_albums DESC;
+
+/* Select specific num_albums */
+/* In PostgreSQL, we cannot use alias in HAVING statement 
+   we need to use full aggregation function */
+SELECT bands.name AS band_name, COUNT (albums.id) AS num_albums 
+  FROM bands
+  LEFT JOIN albums ON bands.id = albums.band_id
+  GROUP BY bands.id
+  HAVING COUNT (albums.id) = 1;
+
+/* With multiple condition in HAVING statement */
+SELECT bands.name AS band_name, COUNT (albums.id) AS num_albums 
+  FROM bands
+  LEFT JOIN albums ON bands.id = albums.band_id
+  GROUP BY bands.id
+  HAVING COUNT (albums.id) = 1 AND bands.name = 'Deuce';

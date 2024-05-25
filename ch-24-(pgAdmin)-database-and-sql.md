@@ -67,3 +67,14 @@ button) or press F5 key
 
    DROP TABLE test;
    ```
+
+
+### Easter eggs: SQL in Excel
+1. Run the following commands in terminal
+   ```sh
+   pip install xlwings
+   xlwings addin install
+   ```
+
+2. See the example in `week-15-sql/bands-albums.xlsx` 
+   and .gif demo in `week-15-sql/sql-in-excel-demo.gif` (adopted from [(GeeksforGeeks, 2023) - How to Use SQL Statements in MS Excel?](https://www.geeksforgeeks.org/how-to-use-sql-statements-in-ms-excel/))
